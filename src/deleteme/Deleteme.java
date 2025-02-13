@@ -15,6 +15,7 @@ public class Deleteme {
      */
     public static void main(String[] args) {
         System.out.println("DELETE ME");
+        System.out.println("SECOND commit");
     }
     
 }
